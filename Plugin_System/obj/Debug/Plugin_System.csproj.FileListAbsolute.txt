@@ -1,0 +1,13 @@
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\bin\Debug\Plugin_System.exe.config
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.Form1.resources
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.Properties.Resources.resources
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.csproj.GenerateResource.Cache
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\bin\Debug\Plugin_System.exe
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\bin\Debug\Plugin_System.pdb
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\bin\Debug\Plugins.dll
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\bin\Debug\Plugins.pdb
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.exe
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.pdb
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.csprojAssemblyReference.cache
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.csproj.CoreCompileInputs.cache
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugin_System\obj\Debug\Plugin_System.csproj.CopyComplete

@@ -1,0 +1,6 @@
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugins\bin\Debug\Plugins.dll
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugins\bin\Debug\Plugins.pdb
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugins\obj\Debug\Plugins.dll
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugins\obj\Debug\Plugins.pdb
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugins\obj\Debug\Plugins.csprojAssemblyReference.cache
+E:\My studies\3rd Year Assignment 2nd semseter\Software Engineering\Plugin_System\Plugins\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
